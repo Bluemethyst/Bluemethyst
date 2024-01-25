@@ -4,6 +4,13 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://discord.gg/Sc6Es7QnhH">
+    <img src="https://raw.githubusercontent.com/Bluemethyst/Bluemethyst/main/discord.png" alt="Join the Discord!" height="100">
+  </a>
+</div>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
